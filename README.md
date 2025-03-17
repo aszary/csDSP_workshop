@@ -7,8 +7,8 @@ Pobieramy projekt:
 ## Uruchamiamy Wirtualną Maszynę Pulsarową
 
 ```
-scripts/ssh_tunnel.sh port_number     # uruchamiamy na lokalnym komputerze (np.5901)
-scripts/ssh.sh                        # łączymy się z serwerem kopernik
+ssh_tunnel.sh port_number     # uruchamiamy na lokalnym komputerze (np.5901)
+ssh.sh                        # łączymy się z serwerem kopernik
 cd warsztaty/
 ./run.sh name display_port            # uruchamiamy Wirtualną Maszynę Pulsarową
 ./startx.sh port_number display_port  # serwer do wyświetlania
