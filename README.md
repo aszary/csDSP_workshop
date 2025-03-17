@@ -2,7 +2,7 @@
 
 Pobieramy projekt:
 
-`https://github.com/aszary/csDSP_workshop.git`
+`git clone https://github.com/aszary/csDSP_workshop.git`
 
 ## Uruchamiamy Wirtualną Maszynę Pulsarową
 
